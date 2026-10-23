@@ -1,0 +1,23 @@
+# зависимости
+node_modules
+
+# сборка Next.js
+.next
+out
+build
+next-env.d.ts
+*.tsbuildinfo
+
+# локальное хранилище заявок (JSON)
+.data
+
+# переменные окружения
+.env
+.env*.local
+
+# хостинг
+.vercel
+
+# система
+.DS_Store
+npm-debug.log*
